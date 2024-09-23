@@ -100,3 +100,13 @@ form button {
   cursor: pointer;
   outline: none;
 }
+
+.note button {
+  background-color: transparent;
+  color: #f5ba13;
+  border: none;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  outline: none;
+}
